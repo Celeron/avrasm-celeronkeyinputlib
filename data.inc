@@ -17,12 +17,12 @@
 
 
 
-; Временные регистры, используемые в основном прикладном коде
-.def	temp	= R16
-.def	temp1	= R16
-.def	temp2	= R17
-.def	temp3	= R18
-.def	temp4	= R19
+; Временные регистры, используемые в основном прикладном коде:
+;.def	temp	= R16	; (определено в macrobaselib.inc)
+;.def	temp1	= R16	; (определено в macrobaselib.inc)
+;.def	temp2	= R17	; (определено в macrobaselib.inc)
+;.def	temp3	= R18	; (определено в macrobaselib.inc)
+;.def	temp4	= R19	; (определено в macrobaselib.inc)
 
 
 

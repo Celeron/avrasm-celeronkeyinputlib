@@ -1,7 +1,9 @@
 .IFNDEF	_CELERONKEYINPUTLIB__INCLUDED_
 .EQU	_CELERONKEYINPUTLIB__INCLUDED_ = 1
-.MESSAGE "Note: <celeronkeyinputlib.inc> (ver.1.0 beta) have included!" 
+.MESSAGE "Note: <celeronkeyinputlib.inc> (ver.1.0 beta) have included, only once!" 
+.include "macrobaselib.inc"	; Библиотека базовых Макроопределений (требуется)
 ;=== BEGIN "celeronkeyinputlib.inc" ========================================
+
 ; Библиотека процедур для интеллектуальной обработки ВВОДА: сканирование Кнопок и Энкодеров.
 
 

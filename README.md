@@ -1,5 +1,5 @@
 avrasm-celeronkeyinputlib
-===================
+=========================
 
 
 **НАЗНАЧЕНИЕ:**
@@ -47,8 +47,7 @@ avrasm-celeronkeyinputlib
 
 
 Используется, и требует подключения, нестандартная внешняя "Библиотека базовых Макроопределений (macrobaselib.inc)" - расширяющая стандартный набор ассемблерных инструкций микроконтроллеров Atmel AVR (8-bit AVR Instruction Set), и рекомендующая парадигму программирования: с хранением "модели прикладных данных" в ОЗУ и использованием нескольких "временных регистров"...
-Get code at https://github.com/Celeron/avrasm-macrobaselib
-
-
+Описание:	http://we.easyelectronics.ru/AVR/avrasm-biblioteka-bazovyh-makroopredeleniy-macrobaselibinc.html
+Код скачать:	https://github.com/Celeron/avrasm-macrobaselib
 
 
