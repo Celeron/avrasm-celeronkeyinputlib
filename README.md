@@ -43,11 +43,14 @@ avrasm-celeronkeyinputlib
 
 **ТРЕБОВАНИЯ И ЗАВИСИМОСТИ:**
 
-Данная реализация "Библиотеки процедур для интеллектуальной обработки ВВОДА (celeronkeyinputlib)" написана на языке ассемблера, для компилятора AVRASM. Соответственно, она предназначена для разработки программных прошивок (firmware) на языке ассемблер, для микроконтроллеров Atmel AVR (8-bit).
+Данная реализация "Библиотеки процедур для интеллектуальной обработки ВВОДА (celeronkeyinputlib)" написана на языке ассемблер "AVRASM2". 
+Соответственно, она предназначена для разработки программных прошивок (firmware) на языке ассемблер, для микроконтроллеров Atmel AVR (8-bit).
+Описание:	http://we.easyelectronics.ru/AVR/avrasm-biblioteka-procedur-dlya-intellektualnoy-obrabotki-vvoda-v-mk-sobytiy-ot-knopok-i-enkoderov-chast-1-avtorskaya-metodika-i-realizaciya.html 
+Код скачать:	https://github.com/Celeron/avrasm-celeronkeyinputlib 
 
 
-Используется, и требует подключения, нестандартная внешняя "Библиотека базовых Макроопределений (macrobaselib.inc)" - расширяющая стандартный набор ассемблерных инструкций микроконтроллеров Atmel AVR (8-bit AVR Instruction Set), и рекомендующая парадигму программирования: с хранением "модели прикладных данных" в ОЗУ и использованием нескольких "временных регистров"...
-Описание:	http://we.easyelectronics.ru/AVR/avrasm-biblioteka-bazovyh-makroopredeleniy-macrobaselibinc.html
-Код скачать:	https://github.com/Celeron/avrasm-macrobaselib
+Используется, и требует подключения, нестандартная внешняя "Библиотека базовых Макроопределений (macrobaselib.inc)" - расширяющая стандартный набор ассемблерных инструкций микроконтроллеров Atmel AVR (8-bit AVR Instruction Set)... 
+Описание:	http://we.easyelectronics.ru/AVR/avrasm-biblioteka-bazovyh-makroopredeleniy-macrobaselibinc.html 
+Код скачать:	https://github.com/Celeron/avrasm-macrobaselib 
 
 
