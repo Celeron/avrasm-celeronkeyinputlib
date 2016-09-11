@@ -237,4 +237,4 @@ DButtonTimer2Status:	.byte	1	; перекл.на функцию "Секундомера/Таймера №2"
 
 
 ;=== END "data.inc" ========================================================
-; coded by (c) Celeron, 2013 @ http://we.easyelectronics.ru/my/Celeron/
+; coded by (c) Celeron, 2013  http://inventproject.info/

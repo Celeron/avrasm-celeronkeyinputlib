@@ -898,5 +898,5 @@ KEY_RESET_STATUS_FOR_ALL_BUTTONS:
 
 
 ;=== END "celeronkeyinputlib.inc" ==========================================
-; coded by (c) Celeron, 2013 @ http://we.easyelectronics.ru/my/Celeron/
+; coded by (c) Celeron, 2013  http://inventproject.info/
 .ENDIF
